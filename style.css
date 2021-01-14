@@ -1,0 +1,122 @@
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav {
+    margin-top: 30px;
+    height: 53px;
+    margin-left: 190px;
+    margin-right: 145px;
+}
+
+.landing {
+    margin-left: 190px;
+    margin-right: 145px;
+    width: 400px;
+    display: inline-block;
+}
+
+.landing h4 {
+    font-size: 56px;
+    font-weight: 800;
+    color: 1F3946;
+    margin-bottom: 0px;
+}
+
+.landing p {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #454545;
+}
+
+.action_buttons {
+    display: inline-block;
+}
+
+.action_buttons button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 13px;
+}
+
+#primary {
+    color: #ffffff;
+    background-color: #008BB1;
+}
+
+#secondary {
+    color: #008BB1;
+    background-color: #E5F5FE;
+}
+
+#landingImg {
+    width: 623px;
+    position: absolute;
+    left: 647px;
+    top: 131px
+}
+
+#landingImg img {
+    height: 465px;
+    padding: 20px;
+    display: inline-block;
+}
+
+#landingContent {
+    padding-top: 100px;
+    display: inline-block;
+}
+
+.clients {
+    margin-left: 190px;
+    margin-right: 145px;
+    margin-top: 140px;
+    margin-bottom: 80px;
+}
+
+.clients p {
+    color: #1F3946;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.clients .client_logo {
+    margin-top: 30px;
+    height: 33px;
+}
+
+.client_logo img {
+    height: 31px;
+    padding-right: 76px;
+}
+
+.users {
+    padding-top: 100px;
+    height: 792px;
+    background-color: #E5F5FE;
+}
+
+.users .info {
+    margin-left: 190px;
+    margin-right: 145px
+}
+
+.users h5 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: 1F3946;
+    margin-bottom: 0px;
+}
+
+.users p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #454545;
+    text-align: center;
+    margin-top: 15px;
+    line-height: 31px;
+}
